@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require_relative '../lib/austin_trails'
+require_relative '../lib/environment.rb'
 
 AustinTrails::CLI.new.start
 
