@@ -43,7 +43,7 @@ class AustinTrails::CLI
 
     def list_trails
         puts "Here are the top 10 hiking trails in Austin, Texas.".colorize(:green)
-        @details = AustinTrails::Hike.trail[1..10] #class method called trail that returns all details for the names
+        @details = AustinTrails::Hike.trail[1..10] 
         @details.each.with_index(1) do |hike, index|
             puts "#{index}. #{hike.name}".colorize(:yellow)
         end
@@ -60,7 +60,7 @@ class AustinTrails::CLI
             input = gets.strip.downcase
             selected_hike = input.to_i
             if valid_input?(selected_hike, @details)
-                selected_hike = @details[input.to_i-1] # we want the array index of the details
+                selected_hike = @details[input.to_i-1] 
                 puts "Here are the details for - #{selected_hike.name}".colorize(:yellow) + "\n" + "\n" + 
                 "#{selected_hike.description}".colorize(:green)
                 puts "Enter another hike number for more info or type list or exit.".colorize(:yellow)

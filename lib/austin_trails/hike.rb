@@ -1,6 +1,6 @@
 class AustinTrails::Hike
 
-    attr_accessor :name, :description, :intro, :heading # Set the attributes for the Hike class
+    attr_accessor :name, :description, :intro, :heading 
 
     def self.trail
         self.scrape_details
@@ -24,19 +24,19 @@ class AustinTrails::Hike
 
     def self.scrape_intro
         doc = Nokogiri::HTML(open("https://www.timeout.com/austin/things-to-do/best-hikes-in-austin"))
-        hike = self.new # create a new instance of hike 
+        hike = self.new
         hike.intro = doc.search("div#content p").text 
         hike.heading = doc.search("div._container_14kkg_1 p").text
-        hike # return the instance intro and heading and store it into the array
+        hike 
     end
 
     def self.scrape_mayfield
         doc = Nokogiri::HTML(open("https://www.timeout.com/austin/things-to-do/mayfield-nature-preserve"))
-        hike = self.new # create a new instance of hike 
+        hike = self.new 
         hike.name = doc.search("div h1").text.strip
         # hike.description = doc.search("//div[@itemprop = 'reviewBody']").children.text.strip
         hike.description = doc.search("div#content").children.text.strip
-        hike # return the instance name and description and store it into the array
+        hike 
     end
 
     def self.scrape_river_place
