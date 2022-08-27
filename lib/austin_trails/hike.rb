@@ -111,6 +111,5 @@ class AustinTrails::Hike
        hike.description = doc.search("div#content p").children.text.strip + "\n" + "\n" + 
        hike.description = doc.search("tbody").text.gsub(/\s+/, " ").strip
        hike
-       #binding.pry
     end
 end
