@@ -24,10 +24,6 @@ Now you are ready to go on your next hiking adventure!
 
 Ruby CLI Gem
 
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[vintran93]/austin_trails.
