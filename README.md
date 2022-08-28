@@ -1,31 +1,37 @@
 # AustinTrails
 
-Find out what's in Austin, Texas!
+Welcome to Austin Trails. Find out what's in Austin, Texas!
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/austin_trails`. To experiment with that code, run `bin/console` for an interactive prompt.
+![austin-trails](https://user-images.githubusercontent.com/78582898/187094686-a2744286-8760-4e90-b159-65ee16f5ba8c.PNG)
 
-TODO: Delete this and the text above, and describe your gem
+1. To get started, clone the app into your repository.
 
-## Installation
+2. Run bundle install
 
-Install the gem and add to the application's Gemfile by executing:
+3. Run ./bin/austin_trails to start the app.
 
-    $ bundle add austin_trails
+![austin_trails_list](https://user-images.githubusercontent.com/78582898/187094741-d7a89481-1131-4833-976a-7ef14ccd8378.PNG)
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+4. The user will be prompted to type enter to render a list of the top 10 hiking trails according to a hiking guide website.
 
-    $ gem install austin_trails
+5. The user can type in the numbers 1 - 10 for a detailed description of each hike.
 
-## Usage
+6. Once the user is finished searching, they may type 'exit' to close the app.
 
-TODO: Write usage instructions here
+Now you are ready to go on your next hiking adventure!
+
+## Built using
+
+CLI Ruby Gem 
 
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
-
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[vintran93]/austin_trails.
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT) @ [vintran93]
