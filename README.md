@@ -23,9 +23,6 @@ Now you are ready to go on your next hiking adventure!
 ## Built using
 
 Ruby CLI Gem
-gem "rake", "~> 13.0"
-gem "rubocop", "~> 1.7"
-gem 'colorize'
 
 ## Contributing
 
