@@ -26,7 +26,7 @@ Ruby CLI Gem
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[vintran93]/austin_trails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/vintran93/austin_trails.
 
 ## License
 
