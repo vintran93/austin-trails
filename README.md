@@ -6,7 +6,7 @@ Welcome to Austin Trails. Find out what's in Austin, Texas!
 
 1. To get started, clone the app into your repository.
 
-2. Run bundle install
+2. Cd in the root repository of the app and run bundle install.
 
 3. Run ./bin/austin_trails to start the app.
 
