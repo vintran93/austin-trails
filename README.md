@@ -4,6 +4,8 @@ Welcome to Austin Trails. Find out what's in Austin, Texas!
 
 ![austin-trails](https://user-images.githubusercontent.com/78582898/187094686-a2744286-8760-4e90-b159-65ee16f5ba8c.PNG)
 
+## Usage
+
 1. To get started, clone the app into your repository.
 
 2. Cd into the root repository of the app and run bundle install.
