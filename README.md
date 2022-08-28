@@ -28,4 +28,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/austin_trails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[vintran93]/austin_trails.
