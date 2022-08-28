@@ -22,7 +22,7 @@ Now you are ready to go on your next hiking adventure!
 
 ## Built using
 
-CLI Ruby Gem 
+Ruby CLI Gem
 
 ## Development
 
