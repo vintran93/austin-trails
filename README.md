@@ -12,7 +12,7 @@ Welcome to Austin Trails. Find out what's in Austin, Texas!
 
 ![austin_trails_list](https://user-images.githubusercontent.com/78582898/187094741-d7a89481-1131-4833-976a-7ef14ccd8378.PNG)
 
-4. The user will be prompted to type enter to render a list of the top 10 hiking trails according to a hiking guide website.
+4. The user will be prompted to type enter to render a list of the top 10 hiking trails according to a hiking website for new visitors and locals.
 
 5. The user can type in the numbers 1 - 10 for a detailed description of each hike.
 
