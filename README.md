@@ -1,6 +1,6 @@
 # AustinTrails
 
-Welcome to Austin Trails. Find out what's in Austin, Texas!
+Welcome to Austin Trails. Want to find a new hiking trail to conquer? Find out what's in Austin, Texas!
 
 ![austin-trails](https://user-images.githubusercontent.com/78582898/187094686-a2744286-8760-4e90-b159-65ee16f5ba8c.PNG)
 
