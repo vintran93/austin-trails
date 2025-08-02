@@ -12,7 +12,7 @@ Welcome to Austin Trails. Want to find a new hiking trail to conquer? Find out w
 
 3. Run ./bin/austin_trails to start the app.
 
-![austin_trails_list](https://user-images.githubusercontent.com/78582898/187094741-d7a89481-1131-4833-976a-7ef14ccd8378.PNG)
+<img width="407" height="206" alt="image" src="https://github.com/user-attachments/assets/a373261d-6be8-43ec-83af-e992bd2f8c65" />
 
 4. The user will be prompted to type enter to render a list of the top 10 hiking trails.
 
