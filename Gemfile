@@ -11,3 +11,4 @@ gem 'colorize'
 # (If you use this, don't forget to add pry to your Gemfile!)
 #require "pry"
 #Pry.start
+gem 'open-uri'
